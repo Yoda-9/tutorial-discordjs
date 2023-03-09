@@ -23,4 +23,4 @@ client.on('messageCreate', message => {    //Al recibir un mensaje
     }
 });
 
-client.login('MTA4MjczMDkzMDgzOTQ5MDU4MQ.G2ru_G.s58t8aNMa2gOCajYCpzp1ZnMGglIibhG1XQK90');    //Iniciar sesión con ese token
+client.login('token');    //Iniciar sesión con ese token
